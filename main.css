@@ -75,9 +75,11 @@ a:hover {
 	width: 200px;
 	padding-left: 200px;
 }
+.contactsImg img {
+	opacity: 0.6;
+}
 .contactsImg:hover {
-	border-right: 1px solid #000;
-	border-radius: 25%;
+	opacity: 1;
 }
 #front {
 	color: red;
