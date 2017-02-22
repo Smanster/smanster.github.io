@@ -75,10 +75,10 @@ a:hover {
 	width: 200px;
 	padding-left: 200px;
 }
-.contactsImg img {
+.contactsImg > img {
 	opacity: 0.6;
 }
-.contactsImg:hover {
+.contactsImg > img:hover {
 	opacity: 1;
 }
 #front {
